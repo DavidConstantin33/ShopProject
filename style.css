@@ -64,10 +64,11 @@ nav a:hover {
 @media only screen and (max-width: 800px) {
     nav li {
         text-align: center;
-        margin-right: 1em;
-        margin-left: 1em;
+        margin-right: 0.2em;
+        margin-left: 0.2em;
         font-size: 1rem;
         display: block; /* Adjust this value for vertical space between items */
+        border: 2px black;
     }
 }
 
