@@ -64,9 +64,9 @@ nav a:hover {
 @media only screen and (max-width: 800px) {
     nav li {
         text-align: center;
-        margin-right: 1.2em;
-        margin-left: 1.2em;
-        font-size: 1.2rem;
+        margin-right: 1.1em;
+        margin-left: 1.1em;
+        font-size: 1.1rem;
         display: block; /* Adjust this value for vertical space between items */
     }
 }
